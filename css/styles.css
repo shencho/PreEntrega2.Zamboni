@@ -80,8 +80,16 @@ header ul li {
   padding: 10px;
   border-radius: 10px;
   margin-left: 20px;
+  
 
+  letter-spacing: -2px;
+  transition: all 0.5s; 
 }
+#navegadorContacto:hover{
+  font-weight: 500px;
+  letter-spacing: 10px;
+
+} 
 .encuadreSecciones {
   padding-top: 120px;
   padding-left: 200px;
