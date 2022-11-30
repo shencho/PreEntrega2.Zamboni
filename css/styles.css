@@ -13,6 +13,13 @@
 
 
 }
+.imgprod{
+  height: 200px;
+  width: 200px;;
+  
+  position: center;
+  border-radius: 100%;
+}
 img.logo {
   height: 100px;
   padding: 0px;
@@ -195,6 +202,8 @@ footer {
   margin-left: 10%;
   margin-right: 10%;
 }
+
+
 
 .controls {
   display: block;
